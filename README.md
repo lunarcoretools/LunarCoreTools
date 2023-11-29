@@ -1,7 +1,7 @@
 # GrasscutterTools
 
-## 在线访问
-[GrasscutterTools](https://wmn1525.github.io/grasscutterTools/dist/index.html#/start/holyrelic)
+## 原项目
+[GrasscutterTools](https://github.com/wmn1525/grasscutterTools)
 
 ## 安装依赖
 `
