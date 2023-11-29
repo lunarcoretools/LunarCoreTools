@@ -40,7 +40,7 @@ const options = reactive([
   },
   {
     title: '均衡等级8',
-    value: '/worldleval 8',
+    value: '/worldlevel 8',
   },
 ])
 const message = Message
