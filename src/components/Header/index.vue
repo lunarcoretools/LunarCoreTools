@@ -57,9 +57,9 @@ const LoginHS = ref(true)
               <nav class="text-sm font-semibold leading-6 text-slate-700 dark:text-slate-200">
                 <ul class="flex space-x-8">
                   <li>
-                    <a href="https://www.grasscutter.cf/" target="_bank"
+                    <a href="https://www.morax.top/" target="_bank"
                       class="block ml-6 text-slate-400 hover:text-slate-500 dark:hover:text-slate-300">
-                      Grasscutter-docs-zh_CN
+                      Blog
                     </a>
                   </li>
                   <li v-if="LoginHS">
@@ -83,7 +83,7 @@ const LoginHS = ref(true)
                     </template>
                   </a-button>
                 </a-tooltip>
-                <a href="https://github.com/wmn1525/LunarCoreTools" target="_bank"
+                <a href="https://github.com/moraxs/LunarCoreTools" target="_bank"
                   class="block ml-6 text-slate-400 hover:text-slate-500 dark:hover:text-slate-300">
                   <SvgIcon name="svg-github" size="small" color="#999999" />
                 </a>
