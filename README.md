@@ -17,7 +17,13 @@ npm run dev
 ## 运行
 `
 npm run build:pro
+`
+`
 npm install http-server
+`
+`
 cd dist
+`
+`
 http-server
 `
