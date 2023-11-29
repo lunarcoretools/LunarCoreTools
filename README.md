@@ -1,4 +1,5 @@
-# GrasscutterTools
+# LunarCoreTools
+适用于LunarCore的web命令生成器
 
 ## 原项目
 [GrasscutterTools](https://github.com/wmn1525/grasscutterTools)
