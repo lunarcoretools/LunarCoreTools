@@ -29,7 +29,7 @@ http-server
 `
 
 ## 直接运行
-**可能更新不及时**
+**可能更新不及时**  
 clone gh-pages分支  
 `
 npm install http-server  
