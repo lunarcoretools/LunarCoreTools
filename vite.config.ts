@@ -25,7 +25,7 @@ export default ({ command, mode }: ConfigEnv): UserConfig => {
         '@api': resovePath('./src/api'),
       }
     },
-    base: "./",
+    base: "/LunarCoreTools/",
     // plugins
     plugins: createVitePlugins(isBuild),
 
