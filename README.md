@@ -6,7 +6,7 @@
 
 ## 安装依赖
 `
-yarn
+npm install yarn
 `
 
 ## 开发
@@ -14,16 +14,30 @@ yarn
 npm run dev
 `
 
-## 运行
+## 编译运行
 `
-npm run build:pro
-`
-`
-npm install http-server
+npm run build:pro  
 `
 `
-cd dist
+npm install http-server  
 `
 `
-http-server
+cd dist  
 `
+`
+http-server  
+`
+
+## 直接运行
+**可能更新不及时**
+clone gh-pages分支  
+`
+npm install http-server  
+`
+`
+http-server  
+`
+
+
+
+
